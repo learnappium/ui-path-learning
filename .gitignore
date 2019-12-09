@@ -1,2 +1,4 @@
 *.settings
 *.screenshots
+*.local/
+/*.local
